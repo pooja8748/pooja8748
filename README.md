@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pooja8748
-- 👀 I’m interested in machine learning like C++ and Python as well as AI & ML.
+- 👋 Hi, I’m POOJA RAMANI
+- 👀 I’m interested in machine learning, Python as well as AI & ML.
 - 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m looking to collaborate on Deep learning.
 - 📫 How to reach me poojaramani8748@gmail.com
