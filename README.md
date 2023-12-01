@@ -1,7 +1,7 @@
 - 👋 Hi, I’m POOJA RAMANI
 - 👀 I’m interested in machine learning, Python as well as AI & ML.
 - 🌱 I’m currently learning C++ and Python.
-- 💞️ I’m looking to collaborate on Deep learning.
+- 💞️ I’m looking to collaborate on Machine Learning,Deep learning,AI as well as Research.
 - 📫 How to reach me poojaramani8748@gmail.com
 
 <!---
